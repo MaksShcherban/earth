@@ -1,0 +1,17 @@
+.imgs {
+  width: 300px;
+  margin-top: 15px;
+}
+.container {
+  text-align: center;
+}
+.text {
+  text-transform: uppercase;
+}
+select {
+  display: flex;
+  margin: 0 auto;
+  background-color: bisque;
+  width: 150px;
+  text-align: center;
+}
